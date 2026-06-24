@@ -49,9 +49,14 @@ Leetcode progress tracker
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/akash-2414023/LEETCODE/tree/master/0131-palindrome-partitioning) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/akash-2414023/LEETCODE/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Backtracking
 |  |
 | ------- |
 | [0077-combinations](https://github.com/akash-2414023/LEETCODE/tree/master/0077-combinations) |
 | [0131-palindrome-partitioning](https://github.com/akash-2414023/LEETCODE/tree/master/0131-palindrome-partitioning) |
+## Prefix Sum
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/akash-2414023/LEETCODE/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
