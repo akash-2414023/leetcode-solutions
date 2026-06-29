@@ -13,6 +13,7 @@ Leetcode progress tracker
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akash-2414023/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/akash-2414023/LEETCODE/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/akash-2414023/LEETCODE/tree/master/0189-rotate-array) |
 | [0445-add-two-numbers-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
@@ -130,5 +131,6 @@ Leetcode progress tracker
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/akash-2414023/LEETCODE/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
