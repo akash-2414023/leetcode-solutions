@@ -33,6 +33,7 @@ Leetcode progress tracker
 | [0169-majority-element](https://github.com/akash-2414023/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/akash-2414023/LEETCODE/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0875-koko-eating-bananas](https://github.com/akash-2414023/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1019-next-greater-node-in-linked-list](https://github.com/akash-2414023/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/akash-2414023/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akash-2414023/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -135,4 +136,5 @@ Leetcode progress tracker
 | ------- |
 | [0069-sqrtx](https://github.com/akash-2414023/LEETCODE/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0875-koko-eating-bananas](https://github.com/akash-2414023/LEETCODE/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
