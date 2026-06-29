@@ -13,6 +13,7 @@ Leetcode progress tracker
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akash-2414023/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/akash-2414023/LEETCODE/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/akash-2414023/LEETCODE/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/akash-2414023/LEETCODE/tree/master/0189-rotate-array) |
 | [0445-add-two-numbers-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0445-add-two-numbers-ii) |
@@ -20,6 +21,7 @@ Leetcode progress tracker
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akash-2414023/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/akash-2414023/LEETCODE/tree/master/0050-powx-n) |
 ## Stack
 |  |
 | ------- |
