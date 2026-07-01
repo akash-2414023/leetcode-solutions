@@ -26,6 +26,7 @@ Leetcode progress tracker
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0445-add-two-numbers-ii) |
+| [0739-daily-temperatures](https://github.com/akash-2414023/LEETCODE/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/akash-2414023/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 ## Array
 |  |
@@ -33,6 +34,7 @@ Leetcode progress tracker
 | [0169-majority-element](https://github.com/akash-2414023/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/akash-2414023/LEETCODE/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0739-daily-temperatures](https://github.com/akash-2414023/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/akash-2414023/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akash-2414023/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/akash-2414023/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
@@ -53,6 +55,7 @@ Leetcode progress tracker
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/akash-2414023/LEETCODE/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/akash-2414023/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 ## Two Pointers
 |  |
