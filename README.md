@@ -31,6 +31,7 @@ Leetcode progress tracker
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/akash-2414023/LEETCODE/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/akash-2414023/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/akash-2414023/LEETCODE/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -97,6 +98,7 @@ Leetcode progress tracker
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/akash-2414023/LEETCODE/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/akash-2414023/LEETCODE/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akash-2414023/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
