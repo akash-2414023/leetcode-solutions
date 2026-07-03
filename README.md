@@ -35,6 +35,7 @@ Leetcode progress tracker
 | [0074-search-a-2d-matrix](https://github.com/akash-2414023/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/akash-2414023/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/akash-2414023/LEETCODE/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/akash-2414023/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0739-daily-temperatures](https://github.com/akash-2414023/LEETCODE/tree/master/0739-daily-temperatures) |
@@ -115,6 +116,7 @@ Leetcode progress tracker
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akash-2414023/LEETCODE/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akash-2414023/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/akash-2414023/LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -159,6 +161,7 @@ Leetcode progress tracker
 | ------- |
 | [0069-sqrtx](https://github.com/akash-2414023/LEETCODE/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/akash-2414023/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/akash-2414023/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/akash-2414023/LEETCODE/tree/master/0875-koko-eating-bananas) |
@@ -192,6 +195,7 @@ Leetcode progress tracker
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/akash-2414023/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akash-2414023/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akash-2414023/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
