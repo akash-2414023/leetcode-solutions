@@ -32,6 +32,7 @@ Leetcode progress tracker
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akash-2414023/LEETCODE/tree/master/0001-two-sum) |
+| [0056-merge-intervals](https://github.com/akash-2414023/LEETCODE/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/akash-2414023/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/akash-2414023/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/akash-2414023/LEETCODE/tree/master/0189-rotate-array) |
@@ -147,6 +148,7 @@ Leetcode progress tracker
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/akash-2414023/LEETCODE/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/akash-2414023/LEETCODE/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/akash-2414023/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
