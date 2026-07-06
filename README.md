@@ -45,6 +45,7 @@ Leetcode progress tracker
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akash-2414023/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/akash-2414023/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/akash-2414023/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1288-remove-covered-intervals](https://github.com/akash-2414023/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/akash-2414023/LEETCODE/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/akash-2414023/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -154,6 +155,7 @@ Leetcode progress tracker
 | [0169-majority-element](https://github.com/akash-2414023/LEETCODE/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/akash-2414023/LEETCODE/tree/master/0435-non-overlapping-intervals) |
+| [1288-remove-covered-intervals](https://github.com/akash-2414023/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/akash-2414023/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/akash-2414023/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Enumeration
