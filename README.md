@@ -43,6 +43,7 @@ Leetcode progress tracker
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akash-2414023/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/akash-2414023/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/akash-2414023/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/akash-2414023/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/akash-2414023/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/akash-2414023/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -108,6 +109,7 @@ Leetcode progress tracker
 | [0169-majority-element](https://github.com/akash-2414023/LEETCODE/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akash-2414023/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/akash-2414023/LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/akash-2414023/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akash-2414023/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -134,6 +136,7 @@ Leetcode progress tracker
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akash-2414023/LEETCODE/tree/master/0169-majority-element) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/akash-2414023/LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akash-2414023/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Simulation
