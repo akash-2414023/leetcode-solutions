@@ -5,12 +5,10 @@ public:
         comp[0] = 0;
         int id = 0;
         for (int i = 1; i < n; i++) {
-            if (nums[i] - nums[i - 1] <= maxDiff) {
-                comp[i] = id;
-            } else {
+            if (nums[i] - nums[i - 1] > maxDiff) {
                 id++;
-                comp[i] = id;
-            }
+            } 
+            comp[i] = id;
         }
         vector<bool> ans(queries.size(), false);
 
