@@ -171,6 +171,7 @@ Leetcode progress tracker
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/akash-2414023/LEETCODE/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akash-2414023/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Greedy
 |  |
