@@ -18,6 +18,7 @@ Leetcode progress tracker
 | [0189-rotate-array](https://github.com/akash-2414023/LEETCODE/tree/master/0189-rotate-array) |
 | [0445-add-two-numbers-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/akash-2414023/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/akash-2414023/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Leetcode progress tracker
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/akash-2414023/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akash-2414023/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/akash-2414023/LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/akash-2414023/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -84,6 +86,7 @@ Leetcode progress tracker
 | [1332-remove-palindromic-subsequences](https://github.com/akash-2414023/LEETCODE/tree/master/1332-remove-palindromic-subsequences) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/akash-2414023/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2460-apply-operations-to-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/2460-apply-operations-to-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/akash-2414023/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -157,6 +160,7 @@ Leetcode progress tracker
 |  |
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/2460-apply-operations-to-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/akash-2414023/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -168,6 +172,7 @@ Leetcode progress tracker
 | [1331-rank-transform-of-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/akash-2414023/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/akash-2414023/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/akash-2414023/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -249,4 +254,8 @@ Leetcode progress tracker
 | ------- |
 | [1720-decode-xored-array](https://github.com/akash-2414023/LEETCODE/tree/master/1720-decode-xored-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/akash-2414023/LEETCODE/tree/master/2433-find-the-original-array-of-prefix-xor) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/akash-2414023/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
