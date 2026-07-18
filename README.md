@@ -65,6 +65,7 @@ Leetcode progress tracker
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/akash-2414023/LEETCODE/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/akash-2414023/LEETCODE/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2460-apply-operations-to-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/2460-apply-operations-to-an-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/akash-2414023/LEETCODE/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2594-minimum-time-to-repair-cars](https://github.com/akash-2414023/LEETCODE/tree/master/2594-minimum-time-to-repair-cars) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akash-2414023/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akash-2414023/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -164,6 +165,7 @@ Leetcode progress tracker
 |  |
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/2460-apply-operations-to-an-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/akash-2414023/LEETCODE/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akash-2414023/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -232,6 +234,7 @@ Leetcode progress tracker
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/akash-2414023/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/akash-2414023/LEETCODE/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/akash-2414023/LEETCODE/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akash-2414023/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akash-2414023/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
