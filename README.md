@@ -65,6 +65,7 @@ Leetcode progress tracker
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/akash-2414023/LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/akash-2414023/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/akash-2414023/LEETCODE/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/akash-2414023/LEETCODE/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/akash-2414023/LEETCODE/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2460-apply-operations-to-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/2460-apply-operations-to-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/akash-2414023/LEETCODE/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -139,6 +140,7 @@ Leetcode progress tracker
 | [1394-find-lucky-integer-in-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/akash-2414023/LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/akash-2414023/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/akash-2414023/LEETCODE/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akash-2414023/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/akash-2414023/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akash-2414023/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
