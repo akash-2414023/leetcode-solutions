@@ -31,6 +31,7 @@ Leetcode progress tracker
 | [0445-add-two-numbers-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/akash-2414023/LEETCODE/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/akash-2414023/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/akash-2414023/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Array
 |  |
 | ------- |
@@ -81,6 +82,7 @@ Leetcode progress tracker
 | [0316-remove-duplicate-letters](https://github.com/akash-2414023/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/akash-2414023/LEETCODE/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/akash-2414023/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/akash-2414023/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,6 +101,7 @@ Leetcode progress tracker
 | [0125-valid-palindrome](https://github.com/akash-2414023/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/akash-2414023/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0316-remove-duplicate-letters](https://github.com/akash-2414023/LEETCODE/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/akash-2414023/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1332-remove-palindromic-subsequences](https://github.com/akash-2414023/LEETCODE/tree/master/1332-remove-palindromic-subsequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akash-2414023/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akash-2414023/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -194,6 +197,7 @@ Leetcode progress tracker
 | [0316-remove-duplicate-letters](https://github.com/akash-2414023/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/akash-2414023/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/akash-2414023/LEETCODE/tree/master/0435-non-overlapping-intervals) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/akash-2414023/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/akash-2414023/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/akash-2414023/LEETCODE/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/akash-2414023/LEETCODE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
