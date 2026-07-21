@@ -292,4 +292,8 @@ Leetcode progress tracker
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/akash-2414023/LEETCODE/tree/master/0295-find-median-from-data-stream) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/akash-2414023/LEETCODE/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
