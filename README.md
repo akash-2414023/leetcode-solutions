@@ -118,6 +118,7 @@ Leetcode progress tracker
 | [1332-remove-palindromic-subsequences](https://github.com/akash-2414023/LEETCODE/tree/master/1332-remove-palindromic-subsequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akash-2414023/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akash-2414023/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/akash-2414023/LEETCODE/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/akash-2414023/LEETCODE/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/akash-2414023/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/akash-2414023/LEETCODE/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -140,6 +141,7 @@ Leetcode progress tracker
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/akash-2414023/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/akash-2414023/LEETCODE/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/akash-2414023/LEETCODE/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/akash-2414023/LEETCODE/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akash-2414023/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/akash-2414023/LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -241,6 +243,7 @@ Leetcode progress tracker
 | [1552-magnetic-force-between-two-balls](https://github.com/akash-2414023/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/akash-2414023/LEETCODE/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1901-find-a-peak-element-ii](https://github.com/akash-2414023/LEETCODE/tree/master/1901-find-a-peak-element-ii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/akash-2414023/LEETCODE/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/akash-2414023/LEETCODE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/akash-2414023/LEETCODE/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2594-minimum-time-to-repair-cars](https://github.com/akash-2414023/LEETCODE/tree/master/2594-minimum-time-to-repair-cars) |
@@ -252,6 +255,7 @@ Leetcode progress tracker
 | [0076-minimum-window-substring](https://github.com/akash-2414023/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/akash-2414023/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akash-2414023/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/akash-2414023/LEETCODE/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Breadth-First Search
 |  |
 | ------- |
