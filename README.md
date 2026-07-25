@@ -49,6 +49,7 @@ Leetcode progress tracker
 | [0410-split-array-largest-sum](https://github.com/akash-2414023/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/akash-2414023/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0739-daily-temperatures](https://github.com/akash-2414023/LEETCODE/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/akash-2414023/LEETCODE/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/akash-2414023/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/akash-2414023/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akash-2414023/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -224,6 +225,7 @@ Leetcode progress tracker
 | [0316-remove-duplicate-letters](https://github.com/akash-2414023/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/akash-2414023/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/akash-2414023/LEETCODE/tree/master/0435-non-overlapping-intervals) |
+| [0860-lemonade-change](https://github.com/akash-2414023/LEETCODE/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akash-2414023/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/akash-2414023/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/akash-2414023/LEETCODE/tree/master/1962-remove-stones-to-minimize-the-total) |
