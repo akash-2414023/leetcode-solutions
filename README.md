@@ -63,6 +63,7 @@ Leetcode progress tracker
 | [1331-rank-transform-of-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/akash-2414023/LEETCODE/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/akash-2414023/LEETCODE/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/akash-2414023/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/akash-2414023/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
@@ -272,6 +273,7 @@ Leetcode progress tracker
 | [0076-minimum-window-substring](https://github.com/akash-2414023/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/akash-2414023/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akash-2414023/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/akash-2414023/LEETCODE/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/akash-2414023/LEETCODE/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/akash-2414023/LEETCODE/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Breadth-First Search
@@ -291,6 +293,7 @@ Leetcode progress tracker
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/akash-2414023/LEETCODE/tree/master/0295-find-median-from-data-stream) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/akash-2414023/LEETCODE/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/akash-2414023/LEETCODE/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/akash-2414023/LEETCODE/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -348,4 +351,16 @@ Leetcode progress tracker
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/akash-2414023/LEETCODE/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/akash-2414023/LEETCODE/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/akash-2414023/LEETCODE/tree/master/1683-invalid-tweets) |
+## Queue
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/akash-2414023/LEETCODE/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Ordered Set
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/akash-2414023/LEETCODE/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/akash-2414023/LEETCODE/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
