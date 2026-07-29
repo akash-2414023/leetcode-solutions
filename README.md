@@ -288,6 +288,7 @@ Leetcode progress tracker
 | ------- |
 | [0815-bus-routes](https://github.com/akash-2414023/LEETCODE/tree/master/0815-bus-routes) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/akash-2414023/LEETCODE/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1971-find-if-path-exists-in-graph](https://github.com/akash-2414023/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akash-2414023/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akash-2414023/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akash-2414023/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -295,6 +296,7 @@ Leetcode progress tracker
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/akash-2414023/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1971-find-if-path-exists-in-graph](https://github.com/akash-2414023/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akash-2414023/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akash-2414023/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/akash-2414023/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -323,6 +325,7 @@ Leetcode progress tracker
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/akash-2414023/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1971-find-if-path-exists-in-graph](https://github.com/akash-2414023/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akash-2414023/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akash-2414023/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/akash-2414023/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -334,6 +337,7 @@ Leetcode progress tracker
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/akash-2414023/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1971-find-if-path-exists-in-graph](https://github.com/akash-2414023/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akash-2414023/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Bit Manipulation
 |  |
