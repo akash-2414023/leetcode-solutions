@@ -43,6 +43,7 @@ Leetcode progress tracker
 | [0001-two-sum](https://github.com/akash-2414023/LEETCODE/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/akash-2414023/LEETCODE/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/akash-2414023/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/akash-2414023/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/akash-2414023/LEETCODE/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
@@ -109,6 +110,7 @@ Leetcode progress tracker
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/akash-2414023/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/akash-2414023/LEETCODE/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/akash-2414023/LEETCODE/tree/master/0295-find-median-from-data-stream) |
