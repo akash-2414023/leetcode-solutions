@@ -152,6 +152,7 @@ Leetcode progress tracker
 | ------- |
 | [0077-combinations](https://github.com/akash-2414023/LEETCODE/tree/master/0077-combinations) |
 | [0131-palindrome-partitioning](https://github.com/akash-2414023/LEETCODE/tree/master/0131-palindrome-partitioning) |
+| [0797-all-paths-from-source-to-target](https://github.com/akash-2414023/LEETCODE/tree/master/0797-all-paths-from-source-to-target) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -288,6 +289,7 @@ Leetcode progress tracker
 ## Breadth-First Search
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/akash-2414023/LEETCODE/tree/master/0797-all-paths-from-source-to-target) |
 | [0815-bus-routes](https://github.com/akash-2414023/LEETCODE/tree/master/0815-bus-routes) |
 | [0841-keys-and-rooms](https://github.com/akash-2414023/LEETCODE/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/akash-2414023/LEETCODE/tree/master/0886-possible-bipartition) |
@@ -329,6 +331,7 @@ Leetcode progress tracker
 ## Graph Theory
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/akash-2414023/LEETCODE/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/akash-2414023/LEETCODE/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/akash-2414023/LEETCODE/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/akash-2414023/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -343,6 +346,7 @@ Leetcode progress tracker
 ## Depth-First Search
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/akash-2414023/LEETCODE/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/akash-2414023/LEETCODE/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/akash-2414023/LEETCODE/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/akash-2414023/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
