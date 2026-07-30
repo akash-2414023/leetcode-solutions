@@ -290,6 +290,7 @@ Leetcode progress tracker
 | ------- |
 | [0815-bus-routes](https://github.com/akash-2414023/LEETCODE/tree/master/0815-bus-routes) |
 | [0841-keys-and-rooms](https://github.com/akash-2414023/LEETCODE/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/akash-2414023/LEETCODE/tree/master/0886-possible-bipartition) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/akash-2414023/LEETCODE/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/akash-2414023/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akash-2414023/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -298,6 +299,7 @@ Leetcode progress tracker
 ## Union-Find
 |  |
 | ------- |
+| [0886-possible-bipartition](https://github.com/akash-2414023/LEETCODE/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/akash-2414023/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1971-find-if-path-exists-in-graph](https://github.com/akash-2414023/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akash-2414023/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -328,6 +330,7 @@ Leetcode progress tracker
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/akash-2414023/LEETCODE/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/akash-2414023/LEETCODE/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/akash-2414023/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1971-find-if-path-exists-in-graph](https://github.com/akash-2414023/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akash-2414023/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -341,6 +344,7 @@ Leetcode progress tracker
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/akash-2414023/LEETCODE/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/akash-2414023/LEETCODE/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/akash-2414023/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1971-find-if-path-exists-in-graph](https://github.com/akash-2414023/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akash-2414023/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
