@@ -85,6 +85,7 @@ Leetcode progress tracker
 | [2187-minimum-time-to-complete-trips](https://github.com/akash-2414023/LEETCODE/tree/master/2187-minimum-time-to-complete-trips) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/akash-2414023/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/akash-2414023/LEETCODE/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2258-escape-the-spreading-fire](https://github.com/akash-2414023/LEETCODE/tree/master/2258-escape-the-spreading-fire) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/akash-2414023/LEETCODE/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/akash-2414023/LEETCODE/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2460-apply-operations-to-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/2460-apply-operations-to-an-array) |
@@ -274,6 +275,7 @@ Leetcode progress tracker
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/akash-2414023/LEETCODE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2187-minimum-time-to-complete-trips](https://github.com/akash-2414023/LEETCODE/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/akash-2414023/LEETCODE/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2258-escape-the-spreading-fire](https://github.com/akash-2414023/LEETCODE/tree/master/2258-escape-the-spreading-fire) |
 | [2594-minimum-time-to-repair-cars](https://github.com/akash-2414023/LEETCODE/tree/master/2594-minimum-time-to-repair-cars) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akash-2414023/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/akash-2414023/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -297,6 +299,7 @@ Leetcode progress tracker
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/akash-2414023/LEETCODE/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/akash-2414023/LEETCODE/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/akash-2414023/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
+| [2258-escape-the-spreading-fire](https://github.com/akash-2414023/LEETCODE/tree/master/2258-escape-the-spreading-fire) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akash-2414023/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akash-2414023/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akash-2414023/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -328,6 +331,7 @@ Leetcode progress tracker
 | [1380-lucky-numbers-in-a-matrix](https://github.com/akash-2414023/LEETCODE/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/akash-2414023/LEETCODE/tree/master/1901-find-a-peak-element-ii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/akash-2414023/LEETCODE/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2258-escape-the-spreading-fire](https://github.com/akash-2414023/LEETCODE/tree/master/2258-escape-the-spreading-fire) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akash-2414023/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akash-2414023/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
