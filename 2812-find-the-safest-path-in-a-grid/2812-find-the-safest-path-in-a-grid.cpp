@@ -78,17 +78,15 @@ public:
             }
             level++;
         }
-        int ans = 0;
         int low = 1, high = 400;
         while (low <= high) {
             int mid = low + (high - low) / 2;
             if (check(distNearestThief, mid)) {
-                ans = mid;
                 low = mid + 1;
             } else {
                 high = mid - 1;
             }
         }
-        return ans;
+        return high;
     }
 };
