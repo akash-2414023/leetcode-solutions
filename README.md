@@ -17,6 +17,7 @@ Leetcode progress tracker
 | [0069-sqrtx](https://github.com/akash-2414023/LEETCODE/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/akash-2414023/LEETCODE/tree/master/0189-rotate-array) |
 | [0445-add-two-numbers-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0445-add-two-numbers-ii) |
+| [0486-predict-the-winner](https://github.com/akash-2414023/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akash-2414023/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akash-2414023/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/akash-2414023/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -29,6 +30,7 @@ Leetcode progress tracker
 | ------- |
 | [0002-add-two-numbers](https://github.com/akash-2414023/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/akash-2414023/LEETCODE/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/akash-2414023/LEETCODE/tree/master/0486-predict-the-winner) |
 ## Stack
 |  |
 | ------- |
@@ -51,6 +53,7 @@ Leetcode progress tracker
 | [0350-intersection-of-two-arrays-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/akash-2414023/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/akash-2414023/LEETCODE/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/akash-2414023/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/akash-2414023/LEETCODE/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akash-2414023/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/akash-2414023/LEETCODE/tree/master/0720-longest-word-in-dictionary) |
@@ -154,6 +157,7 @@ Leetcode progress tracker
 | [0131-palindrome-partitioning](https://github.com/akash-2414023/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/akash-2414023/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/akash-2414023/LEETCODE/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/akash-2414023/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0907-sum-of-subarray-minimums](https://github.com/akash-2414023/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/akash-2414023/LEETCODE/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/akash-2414023/LEETCODE/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -425,4 +429,8 @@ Leetcode progress tracker
 |  |
 | ------- |
 | [0720-longest-word-in-dictionary](https://github.com/akash-2414023/LEETCODE/tree/master/0720-longest-word-in-dictionary) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/akash-2414023/LEETCODE/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
