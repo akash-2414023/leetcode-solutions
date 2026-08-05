@@ -331,6 +331,7 @@ Leetcode progress tracker
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akash-2414023/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akash-2414023/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akash-2414023/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/akash-2414023/LEETCODE/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -372,6 +373,7 @@ Leetcode progress tracker
 | [1971-find-if-path-exists-in-graph](https://github.com/akash-2414023/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akash-2414023/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akash-2414023/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/akash-2414023/LEETCODE/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/akash-2414023/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Shortest Path
 |  |
@@ -387,6 +389,7 @@ Leetcode progress tracker
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/akash-2414023/LEETCODE/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/akash-2414023/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akash-2414023/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/akash-2414023/LEETCODE/tree/master/3310-remove-methods-from-project) |
 ## Bit Manipulation
 |  |
 | ------- |
