@@ -38,6 +38,7 @@ Leetcode progress tracker
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/akash-2414023/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0445-add-two-numbers-ii) |
+| [0735-asteroid-collision](https://github.com/akash-2414023/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/akash-2414023/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/akash-2414023/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/akash-2414023/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
@@ -59,6 +60,7 @@ Leetcode progress tracker
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/akash-2414023/LEETCODE/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akash-2414023/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/akash-2414023/LEETCODE/tree/master/0720-longest-word-in-dictionary) |
+| [0735-asteroid-collision](https://github.com/akash-2414023/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/akash-2414023/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0815-bus-routes](https://github.com/akash-2414023/LEETCODE/tree/master/0815-bus-routes) |
 | [0860-lemonade-change](https://github.com/akash-2414023/LEETCODE/tree/master/0860-lemonade-change) |
@@ -237,6 +239,7 @@ Leetcode progress tracker
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/akash-2414023/LEETCODE/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/akash-2414023/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/akash-2414023/LEETCODE/tree/master/1389-create-target-array-in-the-given-order) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/akash-2414023/LEETCODE/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
