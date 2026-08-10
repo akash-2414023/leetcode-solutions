@@ -110,6 +110,7 @@ Leetcode progress tracker
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akash-2414023/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akash-2414023/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akash-2414023/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3356-zero-array-transformation-ii](https://github.com/akash-2414023/LEETCODE/tree/master/3356-zero-array-transformation-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/akash-2414023/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/akash-2414023/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/akash-2414023/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -139,6 +140,7 @@ Leetcode progress tracker
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/akash-2414023/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2460-apply-operations-to-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/2460-apply-operations-to-an-array) |
 | [2938-separate-black-and-white-balls](https://github.com/akash-2414023/LEETCODE/tree/master/2938-separate-black-and-white-balls) |
+| [3356-zero-array-transformation-ii](https://github.com/akash-2414023/LEETCODE/tree/master/3356-zero-array-transformation-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akash-2414023/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -186,6 +188,7 @@ Leetcode progress tracker
 | [1004-max-consecutive-ones-iii](https://github.com/akash-2414023/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/akash-2414023/LEETCODE/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/akash-2414023/LEETCODE/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [3356-zero-array-transformation-ii](https://github.com/akash-2414023/LEETCODE/tree/master/3356-zero-array-transformation-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/akash-2414023/LEETCODE/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akash-2414023/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/akash-2414023/LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -320,6 +323,7 @@ Leetcode progress tracker
 | [2258-escape-the-spreading-fire](https://github.com/akash-2414023/LEETCODE/tree/master/2258-escape-the-spreading-fire) |
 | [2594-minimum-time-to-repair-cars](https://github.com/akash-2414023/LEETCODE/tree/master/2594-minimum-time-to-repair-cars) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akash-2414023/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3356-zero-array-transformation-ii](https://github.com/akash-2414023/LEETCODE/tree/master/3356-zero-array-transformation-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/akash-2414023/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sliding Window
 |  |
