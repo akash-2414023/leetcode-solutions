@@ -156,6 +156,7 @@ Leetcode progress tracker
 | [0125-valid-palindrome](https://github.com/akash-2414023/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/akash-2414023/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0316-remove-duplicate-letters](https://github.com/akash-2414023/LEETCODE/tree/master/0316-remove-duplicate-letters) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/akash-2414023/LEETCODE/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/akash-2414023/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/akash-2414023/LEETCODE/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0720-longest-word-in-dictionary](https://github.com/akash-2414023/LEETCODE/tree/master/0720-longest-word-in-dictionary) |
@@ -210,6 +211,7 @@ Leetcode progress tracker
 | [0076-minimum-window-substring](https://github.com/akash-2414023/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/akash-2414023/LEETCODE/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/akash-2414023/LEETCODE/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/akash-2414023/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0621-task-scheduler](https://github.com/akash-2414023/LEETCODE/tree/master/0621-task-scheduler) |
 | [0720-longest-word-in-dictionary](https://github.com/akash-2414023/LEETCODE/tree/master/0720-longest-word-in-dictionary) |
@@ -239,6 +241,7 @@ Leetcode progress tracker
 | ------- |
 | [0169-majority-element](https://github.com/akash-2414023/LEETCODE/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/akash-2414023/LEETCODE/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akash-2414023/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/akash-2414023/LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -347,6 +350,7 @@ Leetcode progress tracker
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/akash-2414023/LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/akash-2414023/LEETCODE/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/akash-2414023/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/akash-2414023/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/akash-2414023/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
