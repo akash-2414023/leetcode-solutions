@@ -171,6 +171,7 @@ Leetcode progress tracker
 | [2938-separate-black-and-white-balls](https://github.com/akash-2414023/LEETCODE/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akash-2414023/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akash-2414023/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/akash-2414023/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/akash-2414023/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Dynamic Programming
 |  |
@@ -232,6 +233,7 @@ Leetcode progress tracker
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akash-2414023/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akash-2414023/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akash-2414023/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/akash-2414023/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/akash-2414023/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/akash-2414023/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akash-2414023/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -362,6 +364,7 @@ Leetcode progress tracker
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/akash-2414023/LEETCODE/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/akash-2414023/LEETCODE/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akash-2414023/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/akash-2414023/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Breadth-First Search
 |  |
 | ------- |
