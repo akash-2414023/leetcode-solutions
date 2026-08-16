@@ -435,6 +435,7 @@ Leetcode progress tracker
 | [0797-all-paths-from-source-to-target](https://github.com/akash-2414023/LEETCODE/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/akash-2414023/LEETCODE/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/akash-2414023/LEETCODE/tree/master/0886-possible-bipartition) |
+| [0938-range-sum-of-bst](https://github.com/akash-2414023/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/akash-2414023/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/akash-2414023/LEETCODE/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/akash-2414023/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
@@ -484,6 +485,7 @@ Leetcode progress tracker
 ## Tree
 |  |
 | ------- |
+| [0938-range-sum-of-bst](https://github.com/akash-2414023/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/akash-2414023/LEETCODE/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Trie
 |  |
@@ -502,4 +504,12 @@ Leetcode progress tracker
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/akash-2414023/LEETCODE/tree/master/1406-stone-game-iii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/akash-2414023/LEETCODE/tree/master/0938-range-sum-of-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/akash-2414023/LEETCODE/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
