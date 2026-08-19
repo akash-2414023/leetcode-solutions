@@ -80,6 +80,7 @@ Leetcode progress tracker
 | [1288-remove-covered-intervals](https://github.com/akash-2414023/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/akash-2414023/LEETCODE/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1386-cinema-seat-allocation](https://github.com/akash-2414023/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/akash-2414023/LEETCODE/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1406-stone-game-iii](https://github.com/akash-2414023/LEETCODE/tree/master/1406-stone-game-iii) |
@@ -223,6 +224,7 @@ Leetcode progress tracker
 | [1248-count-number-of-nice-subarrays](https://github.com/akash-2414023/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akash-2414023/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/akash-2414023/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/akash-2414023/LEETCODE/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1995-count-special-quadruplets](https://github.com/akash-2414023/LEETCODE/tree/master/1995-count-special-quadruplets) |
@@ -316,6 +318,7 @@ Leetcode progress tracker
 | [0621-task-scheduler](https://github.com/akash-2414023/LEETCODE/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/akash-2414023/LEETCODE/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akash-2414023/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/akash-2414023/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/akash-2414023/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/akash-2414023/LEETCODE/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/akash-2414023/LEETCODE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -444,6 +447,7 @@ Leetcode progress tracker
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/akash-2414023/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1720-decode-xored-array](https://github.com/akash-2414023/LEETCODE/tree/master/1720-decode-xored-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/akash-2414023/LEETCODE/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/akash-2414023/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
