@@ -116,6 +116,7 @@ Leetcode progress tracker
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akash-2414023/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akash-2414023/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akash-2414023/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/akash-2414023/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akash-2414023/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3355-zero-array-transformation-i](https://github.com/akash-2414023/LEETCODE/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/akash-2414023/LEETCODE/tree/master/3356-zero-array-transformation-ii) |
@@ -277,6 +278,7 @@ Leetcode progress tracker
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/akash-2414023/LEETCODE/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2460-apply-operations-to-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/2460-apply-operations-to-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/akash-2414023/LEETCODE/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/akash-2414023/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akash-2414023/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
