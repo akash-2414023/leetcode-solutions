@@ -1,27 +1,26 @@
 class Solution {
 public:
-    int solve(int i, int j, string& s, string& t, int n, int m,
-              vector<vector<int>>& dp) {
-        if (i == n && j != m)
+    int solve(string& s, string& t, int n, int m, vector<vector<int>>& dp) {
+        if (n == 0 && m != 0)
             return 0;
 
-        if (j == m) {
+        if (m == 0) {
             return 1;
         }
-        if (dp[i][j] != -1) {
-            return dp[i][j];
+        if (dp[n][m] != -1) {
+            return dp[n][m];
         }
-        if (s[i] == t[j]) {
-            int take = solve(i + 1, j + 1, s, t, n, m, dp);
-            int notTake = solve(i + 1, j, s, t, n, m, dp);
-            return dp[i][j] = take + notTake;
+        if (s[n - 1] == t[m - 1]) {
+            int take = solve(s , t , n - 1 , m - 1 , dp);
+            int notTake = solve(s, t, n - 1, m, dp);
+            return dp[n][m] = take + notTake;
         }
-        return dp[i][j] = solve(i + 1, j, s, t, n, m, dp);
+        return dp[n][m] = solve(s, t, n - 1, m, dp);
     }
     int numDistinct(string s, string t) {
         int n = s.size();
         int m = t.size();
-        vector<vector<int>> dp(n, vector<int>(m, -1));
-        return solve(0, 0, s, t, n, m, dp);
+        vector<vector<int>> dp(n + 1, vector<int>(m + 1, -1));
+        return solve(s, t, n, m, dp);
     }
 };
