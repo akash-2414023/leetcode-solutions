@@ -161,6 +161,7 @@ Leetcode progress tracker
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/akash-2414023/LEETCODE/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/akash-2414023/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/akash-2414023/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/akash-2414023/LEETCODE/tree/master/0125-valid-palindrome) |
@@ -189,6 +190,7 @@ Leetcode progress tracker
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/akash-2414023/LEETCODE/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/akash-2414023/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/akash-2414023/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/akash-2414023/LEETCODE/tree/master/0410-split-array-largest-sum) |
