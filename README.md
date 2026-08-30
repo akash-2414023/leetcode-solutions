@@ -62,6 +62,7 @@ Leetcode progress tracker
 | [0410-split-array-largest-sum](https://github.com/akash-2414023/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/akash-2414023/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/akash-2414023/LEETCODE/tree/master/0486-predict-the-winner) |
+| [0491-non-decreasing-subsequences](https://github.com/akash-2414023/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/akash-2414023/LEETCODE/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0621-task-scheduler](https://github.com/akash-2414023/LEETCODE/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akash-2414023/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -211,6 +212,7 @@ Leetcode progress tracker
 | ------- |
 | [0077-combinations](https://github.com/akash-2414023/LEETCODE/tree/master/0077-combinations) |
 | [0131-palindrome-partitioning](https://github.com/akash-2414023/LEETCODE/tree/master/0131-palindrome-partitioning) |
+| [0491-non-decreasing-subsequences](https://github.com/akash-2414023/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [0797-all-paths-from-source-to-target](https://github.com/akash-2414023/LEETCODE/tree/master/0797-all-paths-from-source-to-target) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/akash-2414023/LEETCODE/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Prefix Sum
@@ -237,6 +239,7 @@ Leetcode progress tracker
 | [0350-intersection-of-two-arrays-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/akash-2414023/LEETCODE/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/akash-2414023/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
+| [0491-non-decreasing-subsequences](https://github.com/akash-2414023/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [0621-task-scheduler](https://github.com/akash-2414023/LEETCODE/tree/master/0621-task-scheduler) |
 | [0720-longest-word-in-dictionary](https://github.com/akash-2414023/LEETCODE/tree/master/0720-longest-word-in-dictionary) |
 | [0815-bus-routes](https://github.com/akash-2414023/LEETCODE/tree/master/0815-bus-routes) |
@@ -480,6 +483,7 @@ Leetcode progress tracker
 ## Bit Manipulation
 |  |
 | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/akash-2414023/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/akash-2414023/LEETCODE/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1386-cinema-seat-allocation](https://github.com/akash-2414023/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1720-decode-xored-array](https://github.com/akash-2414023/LEETCODE/tree/master/1720-decode-xored-array) |
