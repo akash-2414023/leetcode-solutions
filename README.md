@@ -40,6 +40,7 @@ Leetcode progress tracker
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/akash-2414023/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/akash-2414023/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/akash-2414023/LEETCODE/tree/master/0678-valid-parenthesis-string) |
@@ -166,6 +167,7 @@ Leetcode progress tracker
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/akash-2414023/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/akash-2414023/LEETCODE/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/akash-2414023/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/akash-2414023/LEETCODE/tree/master/0115-distinct-subsequences) |
@@ -196,6 +198,7 @@ Leetcode progress tracker
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/akash-2414023/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/akash-2414023/LEETCODE/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/akash-2414023/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/akash-2414023/LEETCODE/tree/master/0131-palindrome-partitioning) |
@@ -558,5 +561,6 @@ Leetcode progress tracker
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/akash-2414023/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/akash-2414023/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
