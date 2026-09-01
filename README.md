@@ -22,6 +22,7 @@ Leetcode progress tracker
 | [0628-maximum-product-of-three-numbers](https://github.com/akash-2414023/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/akash-2414023/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/akash-2414023/LEETCODE/tree/master/1406-stone-game-iii) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/akash-2414023/LEETCODE/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akash-2414023/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/akash-2414023/LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akash-2414023/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -121,6 +122,7 @@ Leetcode progress tracker
 | [2460-apply-operations-to-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/2460-apply-operations-to-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/akash-2414023/LEETCODE/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2594-minimum-time-to-repair-cars](https://github.com/akash-2414023/LEETCODE/tree/master/2594-minimum-time-to-repair-cars) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/akash-2414023/LEETCODE/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akash-2414023/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akash-2414023/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akash-2414023/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -210,6 +212,7 @@ Leetcode progress tracker
 | [0907-sum-of-subarray-minimums](https://github.com/akash-2414023/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/akash-2414023/LEETCODE/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1406-stone-game-iii](https://github.com/akash-2414023/LEETCODE/tree/master/1406-stone-game-iii) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/akash-2414023/LEETCODE/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/akash-2414023/LEETCODE/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Backtracking
 |  |
@@ -219,6 +222,7 @@ Leetcode progress tracker
 | [0491-non-decreasing-subsequences](https://github.com/akash-2414023/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [0797-all-paths-from-source-to-target](https://github.com/akash-2414023/LEETCODE/tree/master/0797-all-paths-from-source-to-target) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/akash-2414023/LEETCODE/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/akash-2414023/LEETCODE/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -260,6 +264,7 @@ Leetcode progress tracker
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/akash-2414023/LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/akash-2414023/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/akash-2414023/LEETCODE/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/akash-2414023/LEETCODE/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akash-2414023/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akash-2414023/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akash-2414023/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -327,6 +332,7 @@ Leetcode progress tracker
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/akash-2414023/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/akash-2414023/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/akash-2414023/LEETCODE/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akash-2414023/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akash-2414023/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/akash-2414023/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
@@ -563,4 +569,8 @@ Leetcode progress tracker
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/akash-2414023/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/akash-2414023/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+## Combinatorics
+|  |
+| ------- |
+| [2597-the-number-of-beautiful-subsets](https://github.com/akash-2414023/LEETCODE/tree/master/2597-the-number-of-beautiful-subsets) |
 <!---LeetCode Topics End-->
