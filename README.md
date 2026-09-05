@@ -17,6 +17,7 @@ Leetcode progress tracker
 | [0050-powx-n](https://github.com/akash-2414023/LEETCODE/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/akash-2414023/LEETCODE/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/akash-2414023/LEETCODE/tree/master/0189-rotate-array) |
+| [0319-bulb-switcher](https://github.com/akash-2414023/LEETCODE/tree/master/0319-bulb-switcher) |
 | [0445-add-two-numbers-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/akash-2414023/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akash-2414023/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -579,4 +580,8 @@ Leetcode progress tracker
 |  |
 | ------- |
 | [2597-the-number-of-beautiful-subsets](https://github.com/akash-2414023/LEETCODE/tree/master/2597-the-number-of-beautiful-subsets) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/akash-2414023/LEETCODE/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
