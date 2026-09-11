@@ -44,6 +44,7 @@ Leetcode progress tracker
 | [0002-add-two-numbers](https://github.com/akash-2414023/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/akash-2414023/LEETCODE/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/akash-2414023/LEETCODE/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/akash-2414023/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -141,6 +142,7 @@ Leetcode progress tracker
 | [3355-zero-array-transformation-i](https://github.com/akash-2414023/LEETCODE/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/akash-2414023/LEETCODE/tree/master/3356-zero-array-transformation-ii) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/akash-2414023/LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3483-unique-3-digit-even-numbers](https://github.com/akash-2414023/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/akash-2414023/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/akash-2414023/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/akash-2414023/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -284,6 +286,7 @@ Leetcode progress tracker
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akash-2414023/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akash-2414023/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akash-2414023/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/akash-2414023/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/akash-2414023/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/akash-2414023/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/akash-2414023/LEETCODE/tree/master/3731-find-missing-elements) |
@@ -360,6 +363,7 @@ Leetcode progress tracker
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akash-2414023/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akash-2414023/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/akash-2414023/LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3483-unique-3-digit-even-numbers](https://github.com/akash-2414023/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/akash-2414023/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/akash-2414023/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Greedy
