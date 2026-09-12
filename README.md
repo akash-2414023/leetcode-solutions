@@ -85,6 +85,7 @@ Leetcode progress tracker
 | [0898-bitwise-ors-of-subarrays](https://github.com/akash-2414023/LEETCODE/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0907-sum-of-subarray-minimums](https://github.com/akash-2414023/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/akash-2414023/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
+| [0990-satisfiability-of-equality-equations](https://github.com/akash-2414023/LEETCODE/tree/master/0990-satisfiability-of-equality-equations) |
 | [1004-max-consecutive-ones-iii](https://github.com/akash-2414023/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akash-2414023/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/akash-2414023/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
@@ -196,6 +197,7 @@ Leetcode progress tracker
 | [0647-palindromic-substrings](https://github.com/akash-2414023/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/akash-2414023/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0720-longest-word-in-dictionary](https://github.com/akash-2414023/LEETCODE/tree/master/0720-longest-word-in-dictionary) |
+| [0990-satisfiability-of-equality-equations](https://github.com/akash-2414023/LEETCODE/tree/master/0990-satisfiability-of-equality-equations) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akash-2414023/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/akash-2414023/LEETCODE/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1332-remove-palindromic-subsequences](https://github.com/akash-2414023/LEETCODE/tree/master/1332-remove-palindromic-subsequences) |
@@ -452,6 +454,7 @@ Leetcode progress tracker
 | ------- |
 | [0886-possible-bipartition](https://github.com/akash-2414023/LEETCODE/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/akash-2414023/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0990-satisfiability-of-equality-equations](https://github.com/akash-2414023/LEETCODE/tree/master/0990-satisfiability-of-equality-equations) |
 | [1267-count-servers-that-communicate](https://github.com/akash-2414023/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/akash-2414023/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akash-2414023/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -490,6 +493,7 @@ Leetcode progress tracker
 | [0841-keys-and-rooms](https://github.com/akash-2414023/LEETCODE/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/akash-2414023/LEETCODE/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/akash-2414023/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0990-satisfiability-of-equality-equations](https://github.com/akash-2414023/LEETCODE/tree/master/0990-satisfiability-of-equality-equations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/akash-2414023/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akash-2414023/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akash-2414023/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
