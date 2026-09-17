@@ -106,6 +106,7 @@ Leetcode progress tracker
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akash-2414023/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/akash-2414023/LEETCODE/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akash-2414023/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/akash-2414023/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/akash-2414023/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1720-decode-xored-array](https://github.com/akash-2414023/LEETCODE/tree/master/1720-decode-xored-array) |
@@ -230,6 +231,7 @@ Leetcode progress tracker
 | [0907-sum-of-subarray-minimums](https://github.com/akash-2414023/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/akash-2414023/LEETCODE/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1406-stone-game-iii](https://github.com/akash-2414023/LEETCODE/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akash-2414023/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/akash-2414023/LEETCODE/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/akash-2414023/LEETCODE/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Backtracking
@@ -278,6 +280,7 @@ Leetcode progress tracker
 | [1386-cinema-seat-allocation](https://github.com/akash-2414023/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/akash-2414023/LEETCODE/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akash-2414023/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1995-count-special-quadruplets](https://github.com/akash-2414023/LEETCODE/tree/master/1995-count-special-quadruplets) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/akash-2414023/LEETCODE/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/akash-2414023/LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -401,6 +404,7 @@ Leetcode progress tracker
 | [1004-max-consecutive-ones-iii](https://github.com/akash-2414023/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akash-2414023/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/akash-2414023/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akash-2414023/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/akash-2414023/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/akash-2414023/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/akash-2414023/LEETCODE/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
@@ -428,6 +432,7 @@ Leetcode progress tracker
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akash-2414023/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akash-2414023/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/akash-2414023/LEETCODE/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akash-2414023/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/akash-2414023/LEETCODE/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/akash-2414023/LEETCODE/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akash-2414023/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
