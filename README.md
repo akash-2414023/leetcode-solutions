@@ -214,6 +214,7 @@ Leetcode progress tracker
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akash-2414023/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akash-2414023/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akash-2414023/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/akash-2414023/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/akash-2414023/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Dynamic Programming
 |  |
@@ -337,6 +338,7 @@ Leetcode progress tracker
 | [2558-take-gifts-from-the-richest-pile](https://github.com/akash-2414023/LEETCODE/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akash-2414023/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/akash-2414023/LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/akash-2414023/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akash-2414023/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
