@@ -136,6 +136,7 @@ Leetcode progress tracker
 | [2558-take-gifts-from-the-richest-pile](https://github.com/akash-2414023/LEETCODE/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2594-minimum-time-to-repair-cars](https://github.com/akash-2414023/LEETCODE/tree/master/2594-minimum-time-to-repair-cars) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/akash-2414023/LEETCODE/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/akash-2414023/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akash-2414023/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akash-2414023/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akash-2414023/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -374,6 +375,7 @@ Leetcode progress tracker
 | ------- |
 | [1291-sequential-digits](https://github.com/akash-2414023/LEETCODE/tree/master/1291-sequential-digits) |
 | [1995-count-special-quadruplets](https://github.com/akash-2414023/LEETCODE/tree/master/1995-count-special-quadruplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/akash-2414023/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akash-2414023/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akash-2414023/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/akash-2414023/LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
