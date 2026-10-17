@@ -568,6 +568,7 @@ Leetcode progress tracker
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/akash-2414023/LEETCODE/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/akash-2414023/LEETCODE/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/akash-2414023/LEETCODE/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/akash-2414023/LEETCODE/tree/master/0620-not-boring-movies) |
