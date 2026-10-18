@@ -585,6 +585,7 @@ Leetcode progress tracker
 | [1661-average-time-of-process-per-machine](https://github.com/akash-2414023/LEETCODE/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/akash-2414023/LEETCODE/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/akash-2414023/LEETCODE/tree/master/1683-invalid-tweets) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/akash-2414023/LEETCODE/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Queue
 |  |
 | ------- |
