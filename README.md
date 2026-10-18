@@ -178,6 +178,7 @@ Leetcode progress tracker
 | [0125-valid-palindrome](https://github.com/akash-2414023/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/akash-2414023/LEETCODE/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/akash-2414023/LEETCODE/tree/master/0295-find-median-from-data-stream) |
+| [0345-reverse-vowels-of-a-string](https://github.com/akash-2414023/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/akash-2414023/LEETCODE/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0647-palindromic-substrings](https://github.com/akash-2414023/LEETCODE/tree/master/0647-palindromic-substrings) |
@@ -198,6 +199,7 @@ Leetcode progress tracker
 | [0125-valid-palindrome](https://github.com/akash-2414023/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/akash-2414023/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0316-remove-duplicate-letters](https://github.com/akash-2414023/LEETCODE/tree/master/0316-remove-duplicate-letters) |
+| [0345-reverse-vowels-of-a-string](https://github.com/akash-2414023/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/akash-2414023/LEETCODE/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/akash-2414023/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/akash-2414023/LEETCODE/tree/master/0524-longest-word-in-dictionary-through-deleting) |
