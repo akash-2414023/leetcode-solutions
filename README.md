@@ -121,6 +121,7 @@ Leetcode progress tracker
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/akash-2414023/LEETCODE/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/akash-2414023/LEETCODE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/akash-2414023/LEETCODE/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/akash-2414023/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/akash-2414023/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/akash-2414023/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/akash-2414023/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -370,6 +371,7 @@ Leetcode progress tracker
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/akash-2414023/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/akash-2414023/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/akash-2414023/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/akash-2414023/LEETCODE/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akash-2414023/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akash-2414023/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -430,6 +432,7 @@ Leetcode progress tracker
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/akash-2414023/LEETCODE/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/akash-2414023/LEETCODE/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/akash-2414023/LEETCODE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/akash-2414023/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/akash-2414023/LEETCODE/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/akash-2414023/LEETCODE/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2258-escape-the-spreading-fire](https://github.com/akash-2414023/LEETCODE/tree/master/2258-escape-the-spreading-fire) |
