@@ -86,6 +86,7 @@ Leetcode progress tracker
 | [0875-koko-eating-bananas](https://github.com/akash-2414023/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/akash-2414023/LEETCODE/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0907-sum-of-subarray-minimums](https://github.com/akash-2414023/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
+| [0912-sort-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/akash-2414023/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0990-satisfiability-of-equality-equations](https://github.com/akash-2414023/LEETCODE/tree/master/0990-satisfiability-of-equality-equations) |
 | [1004-max-consecutive-ones-iii](https://github.com/akash-2414023/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
@@ -320,6 +321,7 @@ Leetcode progress tracker
 | [0169-majority-element](https://github.com/akash-2414023/LEETCODE/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/akash-2414023/LEETCODE/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0912-sort-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akash-2414023/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/akash-2414023/LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -331,6 +333,7 @@ Leetcode progress tracker
 ## Merge Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akash-2414023/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/akash-2414023/LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
@@ -369,6 +372,7 @@ Leetcode progress tracker
 | [0621-task-scheduler](https://github.com/akash-2414023/LEETCODE/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akash-2414023/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/akash-2414023/LEETCODE/tree/master/0720-longest-word-in-dictionary) |
+| [0912-sort-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/akash-2414023/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -497,6 +501,7 @@ Leetcode progress tracker
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/akash-2414023/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/akash-2414023/LEETCODE/tree/master/0621-task-scheduler) |
+| [0912-sort-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/0912-sort-an-array) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/akash-2414023/LEETCODE/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/akash-2414023/LEETCODE/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -659,4 +664,16 @@ Leetcode progress tracker
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/akash-2414023/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
