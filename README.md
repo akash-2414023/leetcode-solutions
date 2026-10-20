@@ -8,6 +8,7 @@ Leetcode progress tracker
 | ------- |
 | [0002-add-two-numbers](https://github.com/akash-2414023/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0445-add-two-numbers-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0445-add-two-numbers-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/akash-2414023/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/akash-2414023/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/akash-2414023/LEETCODE/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Math
@@ -184,6 +185,7 @@ Leetcode progress tracker
 | [0350-intersection-of-two-arrays-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/akash-2414023/LEETCODE/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0647-palindromic-substrings](https://github.com/akash-2414023/LEETCODE/tree/master/0647-palindromic-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/akash-2414023/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [1332-remove-palindromic-subsequences](https://github.com/akash-2414023/LEETCODE/tree/master/1332-remove-palindromic-subsequences) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/akash-2414023/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2460-apply-operations-to-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/2460-apply-operations-to-an-array) |
