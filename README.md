@@ -207,6 +207,7 @@ Leetcode progress tracker
 | [0115-distinct-subsequences](https://github.com/akash-2414023/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/akash-2414023/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/akash-2414023/LEETCODE/tree/master/0131-palindrome-partitioning) |
+| [0242-valid-anagram](https://github.com/akash-2414023/LEETCODE/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/akash-2414023/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akash-2414023/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/akash-2414023/LEETCODE/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -288,6 +289,7 @@ Leetcode progress tracker
 | [0076-minimum-window-substring](https://github.com/akash-2414023/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/akash-2414023/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/akash-2414023/LEETCODE/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/akash-2414023/LEETCODE/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/akash-2414023/LEETCODE/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/akash-2414023/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
@@ -373,6 +375,7 @@ Leetcode progress tracker
 | ------- |
 | [0056-merge-intervals](https://github.com/akash-2414023/LEETCODE/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/akash-2414023/LEETCODE/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/akash-2414023/LEETCODE/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/akash-2414023/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/akash-2414023/LEETCODE/tree/master/0435-non-overlapping-intervals) |
