@@ -211,6 +211,7 @@ Leetcode progress tracker
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akash-2414023/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0032-longest-valid-parentheses](https://github.com/akash-2414023/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/akash-2414023/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/akash-2414023/LEETCODE/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/akash-2414023/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/akash-2414023/LEETCODE/tree/master/0115-distinct-subsequences) |
