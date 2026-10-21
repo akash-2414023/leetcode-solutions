@@ -68,6 +68,7 @@ Leetcode progress tracker
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akash-2414023/LEETCODE/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/akash-2414023/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0056-merge-intervals](https://github.com/akash-2414023/LEETCODE/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/akash-2414023/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -183,6 +184,7 @@ Leetcode progress tracker
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akash-2414023/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/akash-2414023/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/akash-2414023/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/akash-2414023/LEETCODE/tree/master/0141-linked-list-cycle) |
