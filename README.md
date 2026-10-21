@@ -113,6 +113,7 @@ Leetcode progress tracker
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/akash-2414023/LEETCODE/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akash-2414023/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/akash-2414023/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/akash-2414023/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/akash-2414023/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1720-decode-xored-array](https://github.com/akash-2414023/LEETCODE/tree/master/1720-decode-xored-array) |
@@ -273,6 +274,7 @@ Leetcode progress tracker
 | [1004-max-consecutive-ones-iii](https://github.com/akash-2414023/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/akash-2414023/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akash-2414023/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1480-running-sum-of-1d-array](https://github.com/akash-2414023/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/akash-2414023/LEETCODE/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/akash-2414023/LEETCODE/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3355-zero-array-transformation-i](https://github.com/akash-2414023/LEETCODE/tree/master/3355-zero-array-transformation-i) |
