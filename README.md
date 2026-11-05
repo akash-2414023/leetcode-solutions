@@ -112,6 +112,7 @@ Leetcode progress tracker
 | [1288-remove-covered-intervals](https://github.com/akash-2414023/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/akash-2414023/LEETCODE/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/akash-2414023/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/akash-2414023/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/akash-2414023/LEETCODE/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -205,6 +206,7 @@ Leetcode progress tracker
 | [0905-sort-array-by-parity](https://github.com/akash-2414023/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [1332-remove-palindromic-subsequences](https://github.com/akash-2414023/LEETCODE/tree/master/1332-remove-palindromic-subsequences) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/akash-2414023/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/akash-2414023/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2460-apply-operations-to-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/2460-apply-operations-to-an-array) |
 | [2938-separate-black-and-white-balls](https://github.com/akash-2414023/LEETCODE/tree/master/2938-separate-black-and-white-balls) |
@@ -406,6 +408,7 @@ Leetcode progress tracker
 | [0922-sort-array-by-parity-ii](https://github.com/akash-2414023/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [1288-remove-covered-intervals](https://github.com/akash-2414023/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/akash-2414023/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/akash-2414023/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/akash-2414023/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -462,6 +465,7 @@ Leetcode progress tracker
 | [1004-max-consecutive-ones-iii](https://github.com/akash-2414023/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akash-2414023/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/akash-2414023/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/akash-2414023/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akash-2414023/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/akash-2414023/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/akash-2414023/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
